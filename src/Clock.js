@@ -5,7 +5,7 @@ class Clock extends React.Component {
         super(props)
         this.state = {
             displayTime: new Date().toLocaleTimeString(),
-            visitorName: "JR"
+            visitorName: "Jess Reynolds"
         }
     }
 
